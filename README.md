@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img alt="Otazua — Data Science & Business Administration student at UPNA" src="assets/header-dark.svg" width="100%" />
+  <img alt="Otazua — Data Science & Business Administration at UPNA" src="assets/header-dark.svg" width="100%" />
 </picture>
 </a>
 
